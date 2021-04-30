@@ -1,0 +1,31 @@
+.title{
+	text-decoration: underline;
+}
+table{
+	
+	width:90%;
+	
+	border-collapse: collapse;
+}
+th,td{
+	border: 1px solid;
+}
+body{
+	 font-family: DejaVu Sans; 
+	 font-size: 12px;
+}
+.pied{
+
+bottom:0;
+height: 20px;
+text-align:left;
+width: 100%;
+padding-top: 10px;
+padding-bottom: 10px;
+border-top: 1px solid #696969;
+font-size: 15px;
+}
+
+.barre{
+border-top: 1px solid #696969;	
+}

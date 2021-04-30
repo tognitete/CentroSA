@@ -1,0 +1,128 @@
+footer{
+		margin: 5em 0;
+		
+	}
+body{	
+
+background: #FFF url(../images/body.gif) repeat-x;
+color: #444;
+}
+
+label{
+
+	color:rgb(157,0,0); 
+}
+.eng_obj{
+	padding-top: 50px;
+}
+
+.g{
+	text-align:center;
+	font-family: "century Gothic";
+	color:rgb(32,106,13);
+	font-size:5.0ex;
+	text-shadow:0px 0px 12px #ccc;
+}
+.g2{
+
+	text-align:center;
+	font-family: "century Gothic";
+	color:#fff;
+	font-size:5.0ex;
+	text-shadow:0px 0px 12px #ccc;
+}
+.title{
+	text-decoration: underline;
+	color: blue;
+}
+button{
+	height: 42px;
+}
+.err{
+	color: red;
+	font-style: italic;
+}
+.menu .t_avance{
+
+	  top: 140px;
+      width: 300px;
+     margin-top:0px;
+     margin-right: 50px;
+     padding-right:10px;
+}
+.t_avance{
+
+	width: 250px;
+
+}
+.orange{
+	color:rgb(237,104,5);
+}
+.blue{
+	color: blue;
+}
+.white{
+	color: white;
+}
+
+.slide{
+	margin-top: -20px;
+}
+
+nav{
+	background-color: rgb(237,104,5);
+	
+}
+
+.dwn{
+
+	font-size: 1.3em;
+    color: #181818;
+    padding-bottom: 3px;
+    text-decoration: none;
+
+    display: inline-block;
+height: 25px;
+position: absolute;
+right: 5px;
+bottom: 5px;
+border: 1px solid #760001;
+border-radius: 5px;
+font-size: 1.2em;
+text-align: center;
+padding: 3px 8px 0px 8px;
+color: white;
+text-decoration: none;
+
+}
+#banniere{
+
+	margin-top: 15px;
+   height: 200px;
+border-radius: 5px;
+position: relative;
+box-shadow: 0px 4px 4px #1c1a19;
+margin-bottom: 25px;
+}
+
+.description{
+
+	position: absolute;
+bottom: 0;
+border-radius: 0px 0px 5px 5px;
+width: 99.5%;
+height: 33px;
+padding-top: 15px;
+padding-left: 4px;
+background-color: rgb(24,24,24); 
+display:none;
+background-color: rgba(24,24,24,0.8);
+color: white;
+font-size: 0.8em;
+}
+
+.dwn #banniere{
+
+	border: 0;
+}
+
